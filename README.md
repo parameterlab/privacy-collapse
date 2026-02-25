@@ -168,13 +168,10 @@ Scripts in `real_data/` convert public datasets to OpenAI-style chat JSONL for f
 ## Citation
 
 ```
-@misc{goel2026privacycollapsebenignfinetuningbreak,
+@article{goel2026privacy,
   title={Privacy Collapse: Benign Fine-Tuning Can Break Contextual Privacy in Language Models},
-  author={Rahul Goel and Ravin Kumar and Yutian Zha and Danqi Chen and Hammad Rajjoub and Siva Reddy and Xiang Ren and Renze Lou},
-  year={2026},
-  eprint={2601.15220},
-  archivePrefix={arXiv},
-  primaryClass={cs.CL},
-  url={https://arxiv.org/abs/2601.15220},
+  author={Goel, Anmol and Emde, Cornelius and Yun, Sangdoo and Oh, Seong Joon and Gubri, Martin},
+  journal={arXiv preprint arXiv:2601.15220},
+  year={2026}
 }
 ```
